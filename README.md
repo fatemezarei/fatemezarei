@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=fatemezarei&theme=tokyonight&hide_border=true"
     alt="Maryam's GitHub Streak"
   />
 </p>
