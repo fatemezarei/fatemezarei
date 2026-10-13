@@ -1,18 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Fatemeh! 👋
+
 ## 📈 GitHub Stats
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=fatemezarei&theme=tokyonight&hide_border=true"
-    alt="Maryam's GitHub Streak"
+    alt="Fatemeh's GitHub Streak"
   />
 </p>
 
 ---
-<!--
-**fatemezarei/fatemezarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--
+**fatemezarei/fatemezarei** is a special repository because its README.md appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
