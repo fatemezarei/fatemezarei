@@ -1,5 +1,14 @@
 ## Hi there 👋
+## 📈 GitHub Stats
 
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=mryamabsi&theme=tokyonight&hide_border=true"
+    alt="Maryam's GitHub Streak"
+  />
+</p>
+
+---
 <!--
 **fatemezarei/fatemezarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
