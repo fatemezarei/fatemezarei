@@ -1,11 +1,11 @@
-# Hi there, I'm Fatemeh! 👋
+# Hi there, I'm Fateme! 👋
 
 ## 📈 GitHub Stats
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=fatemezarei&theme=tokyonight&hide_border=true"
-    alt="Fatemeh's GitHub Streak"
+    alt="Fateme's GitHub Streak"
   />
 </p>
 
